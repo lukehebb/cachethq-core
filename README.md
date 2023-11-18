@@ -49,7 +49,7 @@ When running Cachet via the `composer start` command, Workbench will seed a user
 Login to the account at `/status/login` and use credentials:
 
 - **Email:** `test@test.com`
-- **Password:** `test123
+- **Password:** `test123`
 
 ## Security Vulnerabilities
 
